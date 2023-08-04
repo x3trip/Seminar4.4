@@ -1,0 +1,15 @@
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.csproj.AssemblyReference.cache
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.AssemblyInfoInputs.cache
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.AssemblyInfo.cs
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.csproj.CoreCompileInputs.cache
+C:\Users\Костик\Desktop\C#\Seminar4.4\bin\Debug\net6.0\Seminar4.4.exe
+C:\Users\Костик\Desktop\C#\Seminar4.4\bin\Debug\net6.0\Seminar4.4.deps.json
+C:\Users\Костик\Desktop\C#\Seminar4.4\bin\Debug\net6.0\Seminar4.4.runtimeconfig.json
+C:\Users\Костик\Desktop\C#\Seminar4.4\bin\Debug\net6.0\Seminar4.4.dll
+C:\Users\Костик\Desktop\C#\Seminar4.4\bin\Debug\net6.0\Seminar4.4.pdb
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.dll
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\refint\Seminar4.4.dll
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.pdb
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\Seminar4.4.genruntimeconfig.cache
+C:\Users\Костик\Desktop\C#\Seminar4.4\obj\Debug\net6.0\ref\Seminar4.4.dll
